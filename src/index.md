@@ -1,6 +1,5 @@
 ---
-title: Hello World
+title: "Panim Creations"
+subtitle: "Coming Soon"
 layout: "layouts/home.html"
 ---
-
-# {{ title }}

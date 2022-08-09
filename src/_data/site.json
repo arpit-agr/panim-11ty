@@ -1,9 +1,9 @@
 {
-  "name": "Example",
-  "description": "This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission.",
-  "url": "https://example.com",
-  "themeColor": "#000",
-  "colorScheme": "light dark",
-  "developerName": "Arpit Agrawal",
-  "developerLink": "arpit.agrawal2502@gmail.com"
+	"name": "Panim Creations",
+	"description": "Panim is one of the foremost diamond jewellery manufacturers with an unusual collection of diamond & fine gemstone jewellery.",
+	"url": "https://panimcreations.com",
+	"themeColor": "#000",
+	"colorScheme": "dark",
+	"developerName": "Arpit Agrawal",
+	"developerLink": "arpit.agrawal2502@gmail.com"
 }

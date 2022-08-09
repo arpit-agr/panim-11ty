@@ -1,5 +1,10 @@
 {%- extends "layouts/base.html" -%}
 
 {%- block content -%}
+  <div class="content flow">
+    {%- include "snippets/logo.html" -%}
+    <h1>{{ title }}</h1>
+    <h2>{{ subtitle }}</h2>
+  </div>
   {{ content | safe }}
 {%- endblock -%}
